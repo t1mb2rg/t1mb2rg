@@ -12,6 +12,17 @@
 ### Current rabbit hole
 **Hikari** — persistent personal AI exploring memory, awareness and continuous presence.
 
+### Daily Loop
+
+```python
+while curious:
+    idea = find_something_interesting()
+    prototype(idea)
+
+    if prototype.becomes_system():
+        accept_reality()
+```
+
 ### Things I keep poking at
 `LLM Systems` · `5G / SDR` · `Edge Computing` · `Windows`
 
@@ -33,4 +44,10 @@ $ tail -f /var/log/t1mb2rg.log
 16:02:18 [PASS ] root-cause           found
 ```
 
-`t1mb2rg.com`
+### Reach Me
+
+- 🌐 [t1mb2rg.com](https://t1mb2rg.com)
+- 🐙 GitHub: [@t1mb2rg](https://github.com/t1mb2rg)
+- ✉️ Email: [2971936331@qq.com](mailto:2971936331@qq.com)
+
+> Serious messages, weird project ideas, and interesting technical rabbit holes are welcome.
