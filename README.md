@@ -18,18 +18,19 @@
 ### Off-duty
 `Cycling` · `Trains` · `CS / KSP / GFL` · `Band Anime`
 
-### Runtime Status
+### Runtime Log
 
 ```text
-┌─ USER RESOURCE MONITOR ─────────────────────┐
-│ Curiosity        100%  ████████████████████ │
-│ Sleep             18%  ████░░░░░░░░░░░░░░░ │
-│ Free time          9%  ██░░░░░░░░░░░░░░░░░░ │
-│ Project scope     93%  ███████████████████░ │
-│ New ideas          ∞   allocation failed    │
-└──────────────────────────────────────────────┘
+$ tail -f /var/log/t1mb2rg.log
 
-STATUS: operational despite insufficient maintenance.
+15:03:21 [INFO ] hikari.resident      online
+15:03:22 [INFO ] curiosity.service    running
+15:03:24 [WARN ] sleep-budget         below threshold
+15:03:31 [INFO ] side-project         spawned
+15:03:32 [WARN ] scope-control        degraded
+15:04:09 [ERROR] windows              behaving unexpectedly
+15:27:44 [DEBUG] user                 still investigating
+16:02:18 [PASS ] root-cause           found
 ```
 
 `t1mb2rg.com`
